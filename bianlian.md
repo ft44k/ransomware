@@ -19,6 +19,19 @@ The BianLian ransomware group has shifted its focus from encrypting its victims'
 
 Redacted [3] reports that BianLian operators have kept their initial access and lateral movement techniques the same and continue to deploy a custom Go-based backdoor that gives them remote access on the compromised device, albeit a slightly improved version of it.
 
+## Capability
+
+| Resource Development|-|
+| ------ | ------ |
+| [T1587.001](https://attack.mitre.org/techniques/T1587/001/)| Written in Goland targeting Windows only |
+| [T1583.001](https://attack.mitre.org/techniques/T1583/001/) |BianLian shares victim information on a TOR leak site |
+
+| Initial Access|-|
+| ------ | ------ |
+| [T1021.001](https://attack.mitre.org/techniques/T1021/001/)| Exploits RDP protocol to infect victims|
+| [T1190](https://attack.mitre.org/techniques/T1190/) |BianLian exploits ProxyShell or vulnerable SonicWall VPN |
+
+
 
 [1] https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/  
 [2] https://www.bleepingcomputer.com/news/security/bianlian-ransomware-gang-shifts-focus-to-pure-data-extortion/  
