@@ -19,4 +19,5 @@ Use of GPO to spread the malware
 For example, threat actors may attempt to increase the speed of their operations by changing default Group Policy refresh times, likely to shorten the window of time between changes taking effect and defenders being able to respond.
 
 sources:  
-[1] https://securityintelligence.com/posts/blackcat-ransomware-levels-up-stealth-speed-exfiltration/
+[1] https://securityintelligence.com/posts/blackcat-ransomware-levels-up-stealth-speed-exfiltration/  
+[2] [ALPHV extortion site](https://github.com/ft44k/ransomware/blob/main/extortion_sites.md)
