@@ -18,7 +18,7 @@ according to the researchers, Conti has several subsidiaries, such as
 - [Black Basta](https://github.com/ft44k/ransomware/blob/main/Basta.md)
 - Silent Ransom Group 
 - HelloKitty 
-- AvosLocker 
+- [AvosLocker](https://github.com/ft44k/ransomware/blob/main/avoslocker.md)
 - Zeon 
 - Hive 
 - BlackCat 
