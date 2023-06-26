@@ -15,7 +15,7 @@ Conti’s alignment with Russia made financial support to the group illegal and 
 ## Post-Conti Groups
 according to the researchers, Conti has several subsidiaries, such as 
 - Royal 
-- Black Basta 
+- [Black Basta](https://github.com/ft44k/ransomware/blob/main/Basta.md)
 - Silent Ransom Group 
 - HelloKitty 
 - AvosLocker 
