@@ -22,6 +22,21 @@ http[:]//hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion
 #### Vice Society  
 http[:]//vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion
 
+#### RansomEXX  
+http[:]//rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion  
+
+#### Everest  
+http[:]//ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion  
+
+#### Play  
+http[:]//mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion  
+
+#### 0mega 
+http[:]//omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion  
+
+
+
+
 Sources:  
 https://www.reddit.com/r/Malware/comments/11gy7h1/list_of_ransomware_groups_and_their_pr_pages_2023/  
 
