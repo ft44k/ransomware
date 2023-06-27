@@ -74,6 +74,7 @@ http[:]//nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion
 
 Sources:  
 https://www.reddit.com/r/Malware/comments/11gy7h1/list_of_ransomware_groups_and_their_pr_pages_2023 
-http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion
-https://www.ransomlook.io
+http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion  
+https://www.ransomlook.io  
+
 
