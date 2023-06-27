@@ -1,5 +1,7 @@
 # Collection of extortion sites
 
+# 2023
+
 #### ALPHV  
 http[:]//alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion 
 
@@ -15,6 +17,9 @@ http[:]//santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion
 #### Lockbit 3.0  
 http[:]//lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion
 http[:]//lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion
+
+#### Medusa  
+http[:]//medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion/
 
 #### Snatch  
 http[:]//hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion
@@ -68,5 +73,7 @@ http[:]//nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion
 
 
 Sources:  
-https://www.reddit.com/r/Malware/comments/11gy7h1/list_of_ransomware_groups_and_their_pr_pages_2023/  
+https://www.reddit.com/r/Malware/comments/11gy7h1/list_of_ransomware_groups_and_their_pr_pages_2023 
+http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion
+https://www.ransomlook.io
 
