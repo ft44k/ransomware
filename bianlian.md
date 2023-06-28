@@ -22,8 +22,7 @@ Redacted [3] reports that BianLian operators have kept their initial access and 
 ## Capability
 
 ### Resource Development
-| Resource Development|-|
-| ------ | ------ |
+
 | [T1587.001](https://attack.mitre.org/techniques/T1587/001/)| Written in Goland targeting Windows only |
 | [T1583.001](https://attack.mitre.org/techniques/T1583/001/) |BianLian shares victim information on a TOR leak site |
 
