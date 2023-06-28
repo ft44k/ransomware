@@ -42,6 +42,23 @@ Redacted [3] reports that BianLian operators have kept their initial access and 
 | [T1497](https://attack.mitre.org/techniques/T1497/)| BianLian uses certain API calls to attemtp to confuse/crash sandboxes|
 | [T1497.001](https://attack.mitre.org/techniques/T1497/001/)| BianLian checks if it runs via WINE|
 
+| Discovery|-|
+| ------ | ------ |
+| [T1082](https://attack.mitre.org/techniques/T1082/)| BianLian collect system information such as OS, hw, apps|
+| [T1083](https://attack.mitre.org/techniques/T1190/) |BianLian queries drive information and checks file extensions |
+
+| Collection|-|
+| ------ | ------ |
+| [T1074](https://attack.mitre.org/techniques/T1074/)| BianLian uses 7-zip to archive collected files before exfil|
+
+| Exfiltration|-|
+| ------ | ------ |
+| [T1048.003](https://attack.mitre.org/techniques/T1048/003/)| BianLian uses WinSCP for data transfer|
+
+| Impact|-|
+| ------ | ------ |
+| [T1486](https://attack.mitre.org/techniques/T1486/)| BianLian uses Go library for encryption|
+
 
 [1] https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/  
 [2] https://www.bleepingcomputer.com/news/security/bianlian-ransomware-gang-shifts-focus-to-pure-data-extortion/  
