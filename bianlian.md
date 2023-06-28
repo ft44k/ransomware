@@ -21,6 +21,7 @@ Redacted [3] reports that BianLian operators have kept their initial access and 
 
 ## Capability
 
+### Resource Development
 | Resource Development|-|
 | ------ | ------ |
 | [T1587.001](https://attack.mitre.org/techniques/T1587/001/)| Written in Goland targeting Windows only |
