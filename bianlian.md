@@ -59,6 +59,10 @@ Redacted [3] reports that BianLian operators have kept their initial access and 
 | ------ | ------ |
 | [T1486](https://attack.mitre.org/techniques/T1486/)| BianLian uses Go library for encryption|
 
+### Samples
+md5: 0c756fc8f34e409650cd910b5e2a3f00
+
+
 
 [1] https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/  
 [2] https://www.bleepingcomputer.com/news/security/bianlian-ransomware-gang-shifts-focus-to-pure-data-extortion/  
